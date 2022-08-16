@@ -8,7 +8,7 @@ require (
 	github.com/eapache/go-resiliency v1.2.0
 	github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21
 	github.com/eapache/queue v1.1.0
-	github.com/hxx258456/ccgo v0.0.0-20220815135058-aea1800993ba
+	github.com/hxx258456/ccgo v0.0.1
 	github.com/pierrec/lz4 v2.6.1+incompatible
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 )
