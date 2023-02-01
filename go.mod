@@ -8,7 +8,7 @@ require (
 	github.com/eapache/go-resiliency v1.2.0
 	github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21
 	github.com/eapache/queue v1.1.0
-	github.com/hxx258456/ccgo v0.0.3
+	github.com/hxx258456/ccgo v0.0.4
 	github.com/pierrec/lz4 v2.6.1+incompatible
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 )
@@ -19,7 +19,7 @@ require (
 )
 
 require (
-	gitee.com/zhaochuninhefei/zcgolog v0.0.14 // indirect
+	gitee.com/zhaochuninhefei/zcgolog v0.0.16 // indirect
 	github.com/frankban/quicktest v1.14.2 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
 )
